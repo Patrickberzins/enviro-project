@@ -34,3 +34,8 @@
 .navbutton:hover{
   background: none;
 }
+
+.icon{
+  height:30px;
+  width:auto;
+}
